@@ -1,6 +1,7 @@
 package com.R177219080.ques1;
 import java.util.Scanner;
 
+// Adding a comment
 public class printCombinations {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
